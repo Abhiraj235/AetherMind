@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
 
             <footer className="bg-gray-800 py-12">
               <div className="container mx-auto px-4 text-center text-gray-300">
-                <p>Made with ❤️ by Alphas</p>
+                <p>Made  by Alphas</p>
                 <p className="mt-2 text-sm">
                   AI Career Coach - Helping you navigate the future of AI careers
                 </p>
